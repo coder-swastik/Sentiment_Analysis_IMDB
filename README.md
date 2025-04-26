@@ -52,7 +52,7 @@ Replace `YOUR_USERNAME` and `YOUR_KEY` with your Kaggle username and API key.
         Positive       0.89      0.91      0.90      5039
 
         accuracy                           0.90     10000
-        macro avg       0.90      0.89     0.90     10000
+        macro avg       0.90      0.90     0.90     10000
         weighted avg    0.90      0.90     0.90     10000
     ```
 
