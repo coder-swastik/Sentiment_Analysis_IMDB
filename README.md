@@ -1,4 +1,4 @@
-📚 Fellowship.ai Cohort 35 Submission _(NLP)_
+## 📚 Fellowship.ai Cohort 35 Submission _(NLP)_
 
 Welcome to my repository made for the Fellowship.ai Cohort 35 submission, focused on NLP task. 
 
